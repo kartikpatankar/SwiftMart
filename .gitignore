@@ -1,0 +1,14 @@
+*.class
+*.war
+*.jar
+*.log
+.idea/
+*.iml
+nbproject/private/
+build/
+target/
+out/
+.DS_Store
+Thumbs.db
+logs/
+.env
