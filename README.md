@@ -11,7 +11,7 @@
 
 ## 💻 Tech Stack
 - Java EE (Servlet, JSP)
-- JDBC & MySQL
+- JDBC & SQL
 - HTML, CSS, Bootstrap
 - JSON for data communication
 
